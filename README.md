@@ -13,4 +13,6 @@ Make sure to put in your SSH key in the YOURPUBLICRSA
 Or comment that line and uncomment the 'passwd dogecoin' line
 !!!!
 
+Run with sudo since it's got apt-y stuff in it.
+
 DOGEnations appreciated @ DKg1vamoVEgvsSMFzWjHiPGXSVWX4FFFh6
